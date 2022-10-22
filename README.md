@@ -1,5 +1,5 @@
 
-![Logo](./github/bikcraft.svg)
+![Logo](./.github/bikcraft.svg)
 
 
 # BIKCRAFT
