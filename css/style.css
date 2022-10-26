@@ -90,13 +90,13 @@ img {
 	text-align: right;
 }
 
-.header_menu ul li{
+.header_menu ul li {
 	display: inline-block;
 	margin-left: 25px;
 	margin-top: 20px;
 }
 
-.header_menu ul li a{
+.header_menu ul li a {
 	color: #000;
 	font-weight: bold;
 	text-transform: uppercase;
@@ -192,9 +192,13 @@ img {
 	padding: 60px 0;
 }
 
-.produtos_lista li{
+.produtos_lista li {
 	background: #fec63e;
 	text-align: center;
+}
+
+.produtos_lista li img {
+	margin: 0 auto;
 }
 
 .produtos_lista li h3 {
