@@ -422,3 +422,13 @@ img {
 .js [data-slide-nav] button.active {
 	background: #fec63e;
 }
+
+.js [data-anime] {
+	opacity: 0;
+}
+
+
+.js .anime {
+	opacity: 1;
+	transition: opacity 800ms;
+}
